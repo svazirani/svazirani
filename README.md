@@ -52,7 +52,7 @@
 <td width="50%" valign="top">
 
 <b>Fracture-Flow GNN Surrogate</b> · current research<br/>
-<sub>Zahasky Lab · PyTorch Geometric · code private</sub>
+<sub>Subsurface Hydrophysics Lab · PyTorch Geometric · code private</sub>
 <p>A 6-layer directed message-passing GNN that stands in for physics simulations of solute transport through fracture networks.</p>
 <ul>
 <li>100–1000× faster than simulation across 80,000 realizations, ~0.012 median error</li>
