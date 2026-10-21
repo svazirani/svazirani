@@ -15,11 +15,6 @@
 
 I'm a Data Science, Economics, and Mathematics student at UW–Madison interested in using technology and analytical thinking to solve interesting problems. I enjoy exploring new ideas, building things from scratch, and learning how complex systems work, whether that's through machine learning research, AI projects, or quantitative finance. I'm always looking for opportunities to challenge myself, work with people who think differently, and turn ideas into something meaningful.
 
-- 🔬 **Researching** graph neural networks for subsurface physics with Prof. Christopher Zahasky
-- 🛡️ **Building** Tripwire, an open-source red-teaming harness for AI agents
-- 💼 **Looking for** Summer 2027 internships in quant research and ML/AI engineering
-- 🏓 **Off the keyboard:** varsity table tennis and Treasurer of UW–Madison's Table Tennis Club
-
 ## Featured work
 
 <table>
