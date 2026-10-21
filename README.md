@@ -27,7 +27,7 @@ I've been into markets since I started investing at 12. That pulled me into quan
 <td width="50%" valign="top">
 
 ### Fracture-Flow GNN Surrogate
-**Current research** · Zahasky Lab, UW–Madison
+**Current research** · Subsurface Hydrophysics Lab, UW–Madison
 
 Graph neural networks that learn how contaminants move through underground fracture networks, standing in for expensive physics simulations.
 
@@ -89,7 +89,7 @@ A three-stream CNN–GRU that fuses price, on-chain, and sentiment data to forec
 
 | Role | Where | When |
 |:--|:--|:--|
-| Deep Learning Research Assistant | Zahasky Lab, UW–Madison | May 2026 – now |
+| Deep Learning Research Assistant | Subsurface Hydrophysics Lab, UW–Madison | May 2026 – now |
 | Quantitative Analyst Intern | Shepherd Ventures | Oct 2025 – May 2026 |
 | Course Assistant, Linear Algebra | UW–Madison Math Learning Center | Aug 2025 – May 2026 |
 | AI Research Intern | GrowYT | Feb 2025 – May 2025 |
